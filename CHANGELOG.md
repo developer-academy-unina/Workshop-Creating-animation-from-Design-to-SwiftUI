@@ -1,7 +1,7 @@
 ## CHANGELOG
 
-## Version 1.0.0 (aaaa-mm-dd)
+## Version 1.0.0 (2022-02-08)
 
 First release:
 
-* <Project Name> - <Comment>
+* Animatic - Initial Commit
